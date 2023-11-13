@@ -14,3 +14,7 @@ The following results are derived from this script:
 2. Stock Data Set Excel
 3. Sample Data Set Excel for practice
 4. Visual Basic Script
+
+# Dependencies/Programs
+1. Microsoft Excel
+2. Visual Basic Application
